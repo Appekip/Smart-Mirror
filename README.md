@@ -36,6 +36,10 @@ Setting up:
         Local:            http://localhost:3000        
         On Your Network:  xxxxxxxxxxxxxxxxxxxxx
 
-   6. Once it is up and running, you can run
-  
-      npm run build and copy the build folder into a server 
+6. Now you can build it using the command
+   
+   npm run build
+
+   And then copy the build folder into a server where you can host the application
+
+   You can use this: https://github.com/Appekip/smartMirrorServer
