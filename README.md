@@ -31,7 +31,11 @@ Setting up:
 
     If you are using VSCode you should also get a message like this in your terminal
 
-    You can now view smartmirror in the browser.     
+    You can now view smartmirror in the browser     
 
         Local:            http://localhost:3000        
-        On Your Network:  xxxxxxxxxxxxxxxxxxxxx    
+        On Your Network:  xxxxxxxxxxxxxxxxxxxxx
+
+   6. Once it is up and running, you can run
+  
+      npm run build and copy the build folder into a server 
