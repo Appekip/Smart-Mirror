@@ -12,14 +12,14 @@ Setting up:
 
 2. Now you need to input these variables into .env and use your own values for them
 
-    REACT_APP_CITY_LOCATION=YourCity
-    REACT_APP_LANG=DesiredLanguage
-    REACT_APP_WEATHER_API_KEY=YourAPIKey
+        REACT_APP_CITY_LOCATION=YourCity
+        REACT_APP_LANG=DesiredLanguage
+        REACT_APP_WEATHER_API_KEY=YourAPIKey
 
     Example
-    REACT_APP_CITY_LOCATION=Helsinki
-    REACT_APP_LANG=fi
-    REACT_APP_WEATHER_API_KEY=12313131313131123123
+        REACT_APP_CITY_LOCATION=Helsinki
+        REACT_APP_LANG=fi
+        REACT_APP_WEATHER_API_KEY=12313131313131123123
 
     For all the available languages and their country codes, visit: 
     https://openweathermap.org/api/one-call-3#multi
