@@ -1,6 +1,6 @@
 Web application for a Smart/Magic mirror
 
-Application is supposed to run on a stationary Smart/Magic Mirror and displays current date, time and weather information in the desired language. 
+Application is designed to run on a stationary Smart/Magic Mirror and displays current date, time and weather information in the desired language. 
 
 The application uses an API from https://openweathermap.org/api 
 
