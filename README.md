@@ -40,6 +40,6 @@ Setting up:
    
    npm run build
 
-   And then copy the build folder into a server where you can host the application
+   Then copy the build folder into a server where you can host the application
 
    You can use this: https://github.com/Appekip/smartMirrorServer
