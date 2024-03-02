@@ -20,6 +20,7 @@ Setting up:
     https://openweathermap.org/api/one-call-3#multi
 
 3. Install node.js https://nodejs.org/en/download
+        Restart your computer after installation!
 
 4. Run the following commands:
 
