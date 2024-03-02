@@ -38,8 +38,6 @@ useEffect(() => {
 
 const { day, month, date, hours, minutes, seconds } = currentTime;
 
-console.log(day)
-
 const findIcon = (identifier: number) => {
   const cloudCondition = weatherIcons.find(condition => condition.identifier === identifier);
   if (identifier === 800 && !isDay(parseInt(hours))){
