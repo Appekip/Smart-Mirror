@@ -38,6 +38,8 @@ useEffect(() => {
 
 const { day, month, date, hours, minutes, seconds } = currentTime;
 
+console.log(day)
+
 const findIcon = (identifier: number) => {
   const cloudCondition = weatherIcons.find(condition => condition.identifier === identifier);
   if (identifier === 800 && !isDay(parseInt(hours))){
@@ -71,8 +73,8 @@ const iconSrc = weatherData ? findIcon(weatherData.weather.id) : null;
         <div className="column"></div>
         <div className="column">
           <div className="item">{hours + " : " +  minutes}</div>
-          <div className="item">{month}</div>
-          <div className="item">{day.toString() + " " + date}</div>
+          <div className="item">{month + " " + date}</div>
+          <div className="item">{day.toString()}</div>
           </div>
       </div>
     </div>

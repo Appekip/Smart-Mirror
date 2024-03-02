@@ -1,11 +1,11 @@
 export const weekDays: string[] = [
+    'Sunnuntai',
     'Maanantai', 
     'Tiistai', 
     'Keskiviikko', 
     'Torstai', 
     'Perjantai', 
     'Lauantai',
-    'Sunnuntai'
   ];
   
   export const months: string[] = [
