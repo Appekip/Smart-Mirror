@@ -19,7 +19,8 @@ Setting up:
     For all the available languages and their country codes, visit: 
     https://openweathermap.org/api/one-call-3#multi
 
-3. Install node.js https://nodejs.org/en/download
+3. Install node.js https://nodejs.org/en/download                
+Restart your computer after installation!
 
 4. Run the following commands:
 
